@@ -3,7 +3,7 @@
     "type": "library",
     "require": {
         "psr/event-dispatcher": "^1.0",
-        "verdient/hyperf3-di": "^2.0"
+        "verdient/hyperf3-di": "^2.1"
     },
     "autoload": {
         "psr-4": {
